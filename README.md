@@ -1,4 +1,4 @@
-## Leia.me: Desvendando os Atletas Brasileiros
+## Desvendando os Atletas Brasileiros - Imersão Dev com Google Gemini
 
 **O que faz essa aplicação?**
 
